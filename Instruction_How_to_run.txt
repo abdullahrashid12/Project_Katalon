@@ -1,5 +1,4 @@
 Set and Instructions
-
 Downloading & Installing Katalon
 /*
  * 1. Navigate to Katalon site (https://www.katalon.com/)
