@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>5 sec wait time</description>
+      <initValue>2</initValue>
+      <name>Wait_Time_S</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Homepage URL</description>
+      <initValue>'https://wordpress.com/'</initValue>
+      <name>HP_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'abdullahrashid12@gmail.com'</initValue>
+      <name>EMAIL_LOGIN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'P@ssw0rd!'</initValue>
+      <name>PWD_LOGIN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'abdullah'</initValue>
+      <name>FIRST_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rashid'</initValue>
+      <name>LAST_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Image location</description>
+      <initValue>'/Users/abdullahrashid/Desktop/AWeeber_project/ProfileImage/'</initValue>
+      <name>Profile_Image</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>SET_PAGE_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>NEW_PAGE_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>New_Profile_Path</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
